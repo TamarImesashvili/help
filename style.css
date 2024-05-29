@@ -1,0 +1,39 @@
+body {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+
+label, p {
+  border-color: rgba(255, 255, 255, 1);
+  display: inline;
+}
+
+
+
+table {
+  border-collapse: collapse;
+  border-color: rgba(255, 255, 255, 1);
+  border-color: rgba(218, 218, 218, 1);
+  width: 600px;
+  height: 57px;
+
+}
+
+th {
+  border-color: rgba(218, 218, 218, 1);
+  background-color: rgba(249, 249, 249, 1);
+}
+tr {
+  height: 57px;
+}
+
+td {
+  text-align: center;
+  width: 10px;
+    height: 57px;
+}
+button {
+  background-color: rgba(255, 212, 58, 1);
+}
